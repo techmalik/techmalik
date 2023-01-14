@@ -1,16 +1,56 @@
-### Hi there 👋
+# 👋 Hello, I’m Malik!
 
-<!--
-**techmalik/techmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a data scientist, analyst, and project manager 😎
 
-Here are some ideas to get you started:
+- 🗒 Portfolio: You can find my data projects here [portfolio](https://github.com/techmalik/Data-portfolio)
+- 🏃Motivation: I am driven by two things: Make processes easier using modern tools and methods, and make better decisions using data.
+- 🎯Goal: My ultimate goal is to make life easier to live. 
+- 🕒Availability: I am open to work or collaborate on projects that make a difference
+- 💡Fun-fact: I watch tv shows, anime, and take photographs as hobbies ([my instagram](https://instagram.com/maleekh_k) 😉)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's chat, I'm eager to make your acquaintance.
+[View LinkedIn Profile](https://www.linkedin.com/in/malik-kabir-mustapha/)
+
+### Programming Languages:
+- [x] Python
+- [x] SQL
+- [x] R Programming
+- [x] Golang
+- [x] Solidity
+- [x] HTML/CSS
+
+### Data Analytics Tools:
+- [x] Microsoft Excel
+- [x] Eviews
+- [x] SPSS
+
+### Data Visualization Tools:
+- [x] Tableau
+- [x] Power BI
+
+### Project Management Tools:
+- [x] Microsoft Projects
+- [x] Github
+- [x] Trello
+- [x] Slack
+- [x] Asana
+- [x] Microsoft Teams
+- [x] Comet
+
+### Education:
+- [x] Data Science Accelerator Programme - ExploreAI
+- [x] MSc. Engineering Management - ABU Zaria
+- [x] BEng. Electrical Engineering - ABU Zaria
+- [x] International Advanced Diploma in Computing - Informatics Academy  
+
+### Work Experience:
+
+| Company                                   | Job Title                        | Sector                   |Duration            |
+| ------------------------------------------| ---------------------------------|--------------------------|--------------------|
+| BluHolding Ltd                            | Technical Assistant              | Construction, Energy, IT |Sep 2020 - Present  |
+| Stag Consulting Ltd                       | Business Associate               | Management Consulting    |Oct 2020 - Present  |
+| Gobarau Microfinance Bank Ltd             | Head of IT Department            | Finance                  |Jul 2020 - Mar 2021 |
+| National Health Insurance Scheme (NHIS)   | Information Systems Officer      | Health Insurance         |May 2017 - Apr 2018 |
+
+
+
