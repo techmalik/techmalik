@@ -11,7 +11,7 @@
 ### Let's chat, I'm eager to make your acquaintance.
 [View LinkedIn Profile](https://www.linkedin.com/in/malik-kabir-mustapha/)
 
-### Programming Languages:
+### 1. Programming Languages:
 - [x] Python
 - [x] SQL
 - [x] R Programming
@@ -19,16 +19,16 @@
 - [x] Solidity
 - [x] HTML/CSS
 
-### Data Analytics Tools:
+### 2. Data Analytics Tools:
 - [x] Microsoft Excel
 - [x] Eviews
 - [x] SPSS
 
-### Data Visualization Tools:
+### 3. Data Visualization Tools:
 - [x] Tableau
 - [x] Power BI
 
-### Project Management Tools:
+### 4. Project Management Tools:
 - [x] Microsoft Projects
 - [x] Github
 - [x] Trello
@@ -37,13 +37,13 @@
 - [x] Microsoft Teams
 - [x] Comet
 
-### Education:
+### 5. Education:
 - [x] Data Science Accelerator Programme - ExploreAI
 - [x] MSc. Engineering Management - ABU Zaria
 - [x] BEng. Electrical Engineering - ABU Zaria
 - [x] International Advanced Diploma in Computing - Informatics Academy  
 
-### Work Experience:
+### 6. Work Experience:
 
 | Company                                   | Job Title                        | Sector                   |Duration            |
 | ------------------------------------------| ---------------------------------|--------------------------|--------------------|
@@ -53,4 +53,9 @@
 | National Health Insurance Scheme (NHIS)   | Information Systems Officer      | Health Insurance         |May 2017 - Apr 2018 |
 
 
-
+### 7. Links
+- [LinkedIn](https://www.linkedin.com/in/malik-kabir-mustapha/)
+- [Kaggle](https://kaggle.com/emnice)
+- [Email](techmaleek@gmail.com)
+- [Tableau](https://tableau.com/techmalik)
+- 
