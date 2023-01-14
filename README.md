@@ -1,12 +1,12 @@
-# 👋 Hello, I’m Malik!
+# Hello, I’m Malik!
 
 ### I am a data scientist, analyst, and project manager 😎
 
-- 🗒 Portfolio: You can find my data projects here [portfolio](https://github.com/techmalik/Data-portfolio)
-- 🏃Motivation: I am driven by two things: Make processes easier using modern tools and methods, and make better decisions using data.
-- 🎯Goal: My ultimate goal is to make life easier to live. 
+- 📝Portfolio: You can find my data projects here [My Portfolio](https://github.com/techmalik/Data-portfolio)
+- 🏃Motivation: I am driven by two things: Make processes easier using modern tools and methods, & make better decisions using data.
+- 🎯Goal: My ultimate goal is to make life a little bit easier to live. 
 - 🕒Availability: I am open to work or collaborate on projects that make a difference
-- 💡Fun-fact: I watch tv shows, anime, and take photographs as hobbies ([my instagram](https://instagram.com/maleekh_k) 😉)
+- 💡Fun-fact: I watch tv shows, anime, and take photographs as hobbies ([My Instagram Page](https://instagram.com/maleekh_k) 😉)
 
 ### Let's chat, I'm eager to make your acquaintance.
 [View LinkedIn Profile](https://www.linkedin.com/in/malik-kabir-mustapha/)
@@ -52,10 +52,15 @@
 | Gobarau Microfinance Bank Ltd             | Head of IT Department            | Finance                  |Jul 2020 - Mar 2021 |
 | National Health Insurance Scheme (NHIS)   | Information Systems Officer      | Health Insurance         |May 2017 - Apr 2018 |
 
+### 7. Kaggle Competitions
+- [Spain Electricity Shortfall Challenge 2022](https://www.kaggle.com/competitions/spain-electricity-shortfall-challenge-2022)
+- [South African Language Identification Hack 2022](https://www.kaggle.com/competitions/south-african-language-identification-hack-2022)
+- [EDSA - Twitter Sentiment Classification](https://www.kaggle.com/competitions/edsa-sentiment-classification)
 
-### 7. Links
+### 8. Links
 - [LinkedIn](https://www.linkedin.com/in/malik-kabir-mustapha/)
 - [Kaggle](https://kaggle.com/emnice)
-- [Email](techmaleek@gmail.com)
-- [Tableau](https://tableau.com/techmalik)
-- 
+- [Tableau](https://public.tableau.com/app/profile/malik.kabir.mustapha)
+
+</br>
+#datascience #machinelearning #sql #python #web3 #blockchain 
