@@ -2,11 +2,11 @@
 
 ### I am a data scientist, analyst, and project manager 😎
 
-- 📝Portfolio: You can find my data projects here [My Portfolio](https://github.com/techmalik/Data-portfolio)
-- 🏃Motivation: I am driven by two things: Make processes easier using modern tools and methods, & make better decisions using data.
-- 🎯Goal: My ultimate goal is to make life a little bit easier to live. 
-- 🕒Availability: I am open to work or collaborate on projects that make a difference
-- 💡Fun-fact: I watch tv shows, anime, and take photographs as hobbies ([My Instagram Page](https://instagram.com/maleekh_k) 😉)
+- **Portfolio:** You can find my data projects here [My Portfolio](https://github.com/techmalik/Data-portfolio)
+- **Motivation:** I am driven by two things: Make processes easier using modern tools and methods, & make better decisions using data.
+- **Goal:** My ultimate goal is to make life a little bit easier to live. 
+- **Availability:** I am open to work or collaborate on projects that make a difference
+- **Fun-fact:** I watch tv shows, anime, and take photographs as hobbies ([My Instagram Page](https://instagram.com/maleekh_k) 😉)
 
 ### Let's chat, I'm eager to make your acquaintance.
 [View LinkedIn Profile](https://www.linkedin.com/in/malik-kabir-mustapha/)
