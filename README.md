@@ -11,12 +11,11 @@
 ### Let's chat, I'm eager to make your acquaintance.
 [View LinkedIn Profile](https://www.linkedin.com/in/malik-kabir-mustapha/)
 
-### 1. Programming Languages:
+### 1. Programming Languages/Tools:
 - [x] Python
 - [x] SQL
 - [x] R Programming
-- [x] Golang
-- [x] Solidity
+- [x] GPT-3
 - [x] HTML/CSS
 
 ### 2. Data Analytics Tools:
@@ -34,11 +33,12 @@
 - [x] Trello
 - [x] Slack
 - [x] Asana
+- [x] Notion
 - [x] Microsoft Teams
 - [x] Comet
 
 ### 5. Education:
-- [x] Data Science Accelerator Programme - ExploreAI
+- [x] Data Science Accelerator Programme - ExploreAI Academy
 - [x] MSc. Engineering Management - ABU Zaria
 - [x] BEng. Electrical Engineering - ABU Zaria
 - [x] International Advanced Diploma in Computing - Informatics Academy  
