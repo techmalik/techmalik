@@ -63,4 +63,4 @@
 - [Tableau](https://public.tableau.com/app/profile/malik.kabir.mustapha)
 
 </br>
-#datascience #machinelearning #sql #python #web3 #blockchain 
+#datascience #machinelearning #sql #python #openai #gpt3
