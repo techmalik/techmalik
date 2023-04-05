@@ -18,16 +18,19 @@
 - [x] GPT-3
 - [x] HTML/CSS
 
-### 2. Data Analytics Tools:
+### 2. Cloud:
+- [x] AWS Certified Cloud Practitioner
+
+### 3. Data Analytics Tools:
 - [x] Microsoft Excel
 - [x] Eviews
 - [x] SPSS
 
-### 3. Data Visualization Tools:
+### 4. Data Visualization Tools:
 - [x] Tableau
 - [x] Power BI
 
-### 4. Project Management Tools:
+### 5. Project Management Tools:
 - [x] Microsoft Projects
 - [x] Github
 - [x] Trello
@@ -37,22 +40,24 @@
 - [x] Microsoft Teams
 - [x] Comet
 
-### 5. Education:
+### 6. Education:
 - [x] Data Science Accelerator Programme - ExploreAI Academy
 - [x] MSc. Engineering Management - ABU Zaria
 - [x] BEng. Electrical Engineering - ABU Zaria
 - [x] International Advanced Diploma in Computing - Informatics Academy  
 
-### 6. Work Experience:
+### 7. Work Experience:
 
 | Company                                   | Job Title                        | Sector                   |Duration            |
 | ------------------------------------------| ---------------------------------|--------------------------|--------------------|
-| BluHolding Ltd                            | Technical Assistant              | Construction, Energy, IT |Sep 2020 - Present  |
-| Stag Consulting Ltd                       | Business Associate               | Management Consulting    |Oct 2020 - Present  |
+| Mentalyc Inc.                             | Analyst/Engineer                 | Mental Health, AI        |Feb 2023 - Present  |
+| BluHolding Ltd                            | Technical Assistant              | Construction, Energy, IT |Sep 2020 - Feb 2023 |
+| Stag Consulting Ltd                       | Business Associate               | Management Consulting    |Oct 2020 - Dec 2023 |
 | Gobarau Microfinance Bank Ltd             | Head of IT Department            | Finance                  |Jul 2020 - Mar 2021 |
 | National Health Insurance Scheme (NHIS)   | Information Systems Officer      | Health Insurance         |May 2017 - Apr 2018 |
 
 ### 7. Kaggle Competitions
+- [Movie Recommender System 2023](https://www.kaggle.com/competitions/edsa-movie-recommendation-predict)
 - [Spain Electricity Shortfall Challenge 2022](https://www.kaggle.com/competitions/spain-electricity-shortfall-challenge-2022)
 - [South African Language Identification Hack 2022](https://www.kaggle.com/competitions/south-african-language-identification-hack-2022)
 - [EDSA - Twitter Sentiment Classification](https://www.kaggle.com/competitions/edsa-sentiment-classification)
@@ -63,4 +68,4 @@
 - [Tableau](https://public.tableau.com/app/profile/malik.kabir.mustapha)
 
 </br>
-#datascience #machinelearning #sql #python #openai #gpt3
+#datascience #machinelearning #sql #python #openai #gpt3 #promptengineering
