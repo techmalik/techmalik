@@ -50,7 +50,8 @@
 
 | Company                                   | Job Title                        | Sector                   |Duration            |
 | ------------------------------------------| ---------------------------------|--------------------------|--------------------|
-| Mentalyc Inc.                             | Analyst/Engineer                 | Mental Health, AI        |Feb 2023 - Present  |
+| Mentalyc Inc.                             | Analyst/Engineer                 | Mental Health, AI        |Jan 2023 - Present  |
+| ExploreAI                                 | Intern                           | Consultancy, IT          |Feb 2023 - Present  |
 | BluHolding Ltd                            | Technical Assistant              | Construction, Energy, IT |Sep 2020 - Feb 2023 |
 | Stag Consulting Ltd                       | Business Associate               | Management Consulting    |Oct 2020 - Dec 2023 |
 | Gobarau Microfinance Bank Ltd             | Head of IT Department            | Finance                  |Jul 2020 - Mar 2021 |
