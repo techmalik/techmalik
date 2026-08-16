@@ -40,7 +40,7 @@ Engineer by training, operator by trade. I spent three and a half years as an ea
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Certified-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Certified-232F3E?style=flat&logo=amazon&logoColor=white)
 
 Also: R, Notion, HubSpot, Airtable, Tableau, advanced Excel and financial modelling.
 
