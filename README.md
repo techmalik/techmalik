@@ -8,7 +8,7 @@ Engineer by training, operator by trade. I spent three and a half years as an ea
 
 - Deputy Manager, Research and Data Analytics (Renewable Energy) at the Nigerian Electricity Regulatory Commission
 - Building **Axle**, contractor management software for remote-first teams
-- Open to part-time and fractional remote work in ops, automation and internal tooling
+- Open to part-time and fractional remote work in ops, automation and internal tooling, general vibe coder or as chief of staff, executive assistant, and project management.
 
 ## What I do
 
