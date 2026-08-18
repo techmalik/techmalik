@@ -7,8 +7,8 @@ Engineer by training, operator by trade. I spent three and a half years as an ea
 **Right now**
 
 - Deputy Manager, Research and Data Analytics (Renewable Energy) at the Nigerian Electricity Regulatory Commission
-- Building **Axle**, contractor management software for remote-first teams
-- Open to part-time and fractional remote work in ops, automation and internal tooling, general vibe coder or as chief of staff, executive assistant, and project management.
+- Shipping four products: **Axle**, **AssetCore**, **OpenSession**, and a shipment tracking system for a trading group
+- Open to part-time and fractional remote work in ops, automation and internal tooling
 
 ## What I do
 
@@ -20,21 +20,38 @@ Engineer by training, operator by trade. I spent three and a half years as an ea
 
 **Put LLMs where they pay off.** Knowledge-base assistants, drafting and triage steps inside existing workflows, evaluation loops. I use Claude and GPT daily and I am opinionated about where they belong and where they waste money.
 
-## Selected work
+## What I am building
+
+### In production
 
 | Project | What it is |
 |---|---|
-| **Axle** | Multi-tenant SaaS for managing independent contractors: timesheets, leave, invoice tracking, performance reviews. Built for teams that outgrew the spreadsheet but do not need full payroll infrastructure. |
-| **Support ops tooling** | Live customer-support metrics dashboard and a Slack ticketing bot for a startup support team, plus a Python service for support performance management. |
-| **Automation stack** | n8n, Make and Zapier workflows with LLM steps, reporting automations, and a knowledge-base chatbot for regulatory staff. |
-| **Regulatory application portals** | Helped design the mini-grid and net-billing application portals used by developers applying to Nigeria's electricity regulator. Internal systems, private code, happy to walk through the architecture. |
-| **[Data portfolio](https://github.com/techmalik/Data-portfolio)** | Machine learning, NLP and SQL projects from the ExploreAI data science accelerator: classification, regression, model deployment on AWS. |
+| **Axle** [site](https://www.axle.app) · [code](https://github.com/techmalik/axle-app) | Multi-tenant contractor management SaaS: timesheets, leave, invoice tracking, performance reviews. For teams that outgrew the spreadsheet but do not need full payroll infrastructure. TypeScript. |
+| **AssetCore** [code](https://github.com/techmalik/assetcore) | Asset management for critical infrastructure operators. Licensed and client-hosted rather than sold as SaaS: each deployment is commissioned, configured and maintained for a single client, and packages into a tarball a client's own Docker host can run without registry access. Node, Express, TypeScript, PostgreSQL. |
+| **Shipment tracker** (private) | Container-level tracking for a Chinese-Nigerian trading group, covering sea freight from China to Nigeria end to end. Document verification and cost approval gates, payment evidence, consignment receipts, role-scoped access where an out-of-scope record returns 404 rather than 403, and a full audit trail. Replaces WhatsApp threads and email chains. Django, PostgreSQL, Docker. |
+| **OpenSession** [code](https://github.com/techmalik/opensession) | Conference and event management platform built from scratch as a Sessionboard alternative for the Kill My SaaS competition: call for papers, abstract review and disposition, agenda building with conflict detection, speaker portal, embeddable public widgets. React Router v7 on Cloudflare Workers. |
+
+### In progress
+
+| Project | What it is |
+|---|---|
+| **FitCV** (private) | Builds a CV from scratch and rewrites an existing one against a specific job description, so the version you send matches what the posting actually asks for. |
+| **Child face verification** [code](https://github.com/techmalik/Katsina-Child-Face-Verification) | Face verification for disbursing donations and assistance to children, so aid reaches the child it was assigned to rather than whoever turns up with the paperwork. |
+
+### Not public, happy to walk through
+
+Application portals for Nigeria's electricity regulator (mini-grid permits and net billing), a customer-support metrics dashboard and Slack ticketing bot, and an internal contractor portal. Plus n8n, Make and Zapier automations with LLM steps and a knowledge-base assistant for regulatory staff.
+
+Older machine learning, NLP and SQL work sits in my [data portfolio](https://github.com/techmalik/Data-portfolio).
 
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
